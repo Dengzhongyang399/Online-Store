@@ -11,7 +11,7 @@ import java.util.Locale;
 import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
-public class MessageSourceTest {
+class MessageSourceTest {
 
     @Autowired
     private MessageSource messageSource;
